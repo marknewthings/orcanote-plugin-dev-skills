@@ -1,9 +1,9 @@
 ---
-name: orcanote-plugin-dev-skills
+name: orcanote-plugin-dev-steps
 description: 开发虎鲸笔记（Orca Note）插件的完整工作流。包含三大流程：1) 生成项目——基于 sethyuan/orca-plugin-template 模板创建插件项目骨架并复制 plugin-docs API 文档；2) 测试插件——构建后将必要文件同步到本地 Orca 插件目录并重启 Orca Note；3) 发布版本——在开发分支上按 x.x.x 格式递增版本号、构建发布包、维护 awesome-orcanote 仓库的 plugins.json 插件市场注册表（不操作 main 分支，合并由用户在 GitHub 上发起 PR 完成）。当用户要求创建/初始化虎鲸笔记插件项目，或要求测试、安装插件到本地虎鲸笔记，或要求发布、上架、更新虎鲸笔记插件版本时使用。
 ---
 
-# 开发虎鲸笔记插件技能
+# 虎鲸笔记插件开发步骤
 
 虎鲸笔记（Orca Note）插件的项目生成、本地测试与版本发布工作流。
 
